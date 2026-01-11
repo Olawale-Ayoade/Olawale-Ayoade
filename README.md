@@ -14,13 +14,8 @@ My background in physics gives me a strong foundation in statistical modeling, q
 ---
 
 ## Tools & Tech
-**Languages**
 - Python, SQL  
-**Machine Learning / Deep Learning**
-- scikit-learn, PyTorch, TensorFlow  
-**Data & Analysis**
-- pandas, NumPy, SciPy, Matplotlib, Seaborn  
-**Workflow**
+- scikit-learn, PyTorch, TensorFlow, pandas, NumPy, SciPy, Matplotlib, Seaborn  
 - Git, Jupyter, Linux  
 
 <!--
