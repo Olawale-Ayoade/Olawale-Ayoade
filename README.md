@@ -14,7 +14,6 @@ My background in physics gives me a strong foundation in statistical modeling, q
 ---
 
 ## Tools & Tech
-
 **Languages**
 - Python, SQL  
 **Machine Learning / Deep Learning**
