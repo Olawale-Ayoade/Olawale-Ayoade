@@ -1,13 +1,11 @@
 ## Hi there 👋
 
-## 👋 Who I Am
-
 I’m Olawale, a **Data Scientist completing a PhD in Physics**. I apply machine learning and deep learning to real-world problems, with a particular interest in the **healthcare sector**.  
 My background in physics gives me a strong foundation in statistical modeling, quantitative analysis, and scientific thinking.
 
 ---
 
-## 🔭 What I’m Currently Working On
+## What I’m Currently Working On
 
 - Applying ML and DL techniques to healthcare-related datasets  
 - Exploring predictive modeling and time-series analysis for health applications  
@@ -15,17 +13,14 @@ My background in physics gives me a strong foundation in statistical modeling, q
 
 ---
 
-## 🛠️ Tools I Use
+## Tools & Tech
 
 **Languages**
 - Python, SQL  
-
 **Machine Learning / Deep Learning**
 - scikit-learn, PyTorch, TensorFlow  
-
 **Data & Analysis**
 - pandas, NumPy, SciPy, Matplotlib, Seaborn  
-
 **Workflow**
 - Git, Jupyter, Linux  
 
