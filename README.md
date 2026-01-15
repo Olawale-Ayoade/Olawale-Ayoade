@@ -7,7 +7,7 @@ My background in physics gives me a strong foundation in statistical modeling, q
 
 ## What I’m Currently Working On
 
-- Applying ML and DL techniques to healthcare-related datasets  
+- Applying ML and DL techniques to scalable buisness-driven datasets  
 - Exploring predictive modeling and time-series analysis for health applications  
 - Building clean, reproducible ML pipelines and well-documented projects  
 
