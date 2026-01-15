@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Olawale, a **Data Scientist completing a PhD in Physics (August 2026)**. I apply machine learning and deep learning to real-world problems, with a particular interest in the **healthcare sector**.  
+I’m Olawale, a **Data Scientist completing a PhD in Physics (May 2026)**. I apply machine learning and deep learning to real-world problems.  
 My background in physics gives me a strong foundation in statistical modeling, quantitative analysis, and scientific thinking.
 
 ---
