@@ -14,7 +14,7 @@ My background in physics gives me a strong foundation in statistical modeling, q
 ---
 
 ## Tools & Tech
-- Python, SQL  
+- Python, SQL, Tableau  
 - scikit-learn, PyTorch, TensorFlow, pandas, NumPy, SciPy, Matplotlib, Seaborn  
 - Git, Jupyter, Linux  
 
