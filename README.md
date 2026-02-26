@@ -1,34 +1,53 @@
 ## Hi there 👋
 
-I’m Olawale, a **Data Scientist completing a PhD in Physics (May 2026)**. I apply machine learning and deep learning to real-world problems.  
-My background in physics gives me a strong foundation in statistical modeling, quantitative analysis, and scientific thinking.
+I’m Olawale — a **Physics PhD candidate (2026) working at the intersection of machine learning, scientific computing, and real-world data problems**.
+
+My work focuses on applying ML and deep learning to complex experimental datasets, building reproducible modeling workflows, and translating research methods into practical tools. I’m particularly interested in scientific AI, applied research, and data-driven decision systems.
 
 ---
 
-## What I’m Currently Working On
+## 🔬 Current Focus
 
-- Applying ML and DL techniques to scalable buisness-driven datasets  
-- Exploring predictive modeling and time-series analysis for health applications  
-- Building clean, reproducible ML pipelines and well-documented projects  
+- Applying machine learning to scientific and real-world datasets  
+- Predictive modeling, representation learning, and time-series analysis  
+- Building reproducible ML pipelines and research-grade code  
+- Exploring how research ML methods translate to production environments  
 
 ---
 
-## Tools & Tech
-- Python, SQL, Tableau  
-- scikit-learn, PyTorch, TensorFlow, pandas, NumPy, SciPy, Matplotlib, Seaborn  
-- Git, Jupyter, Linux  
+## 🧠 Research Background
 
-<!--
-**Olawale-Ayoade/Olawale-Ayoade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My PhD research combines:
+- Experimental data analysis  
+- Statistical modeling  
+- Simulation-guided learning  
+- Machine learning for scientific discovery  
 
-Here are some ideas to get you started:
+I have published work incorporating ML methods and regularly implement ideas from research papers in practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tools & Tech
+
+**Languages:** Python, SQL  
+**ML/DL:** scikit-learn, PyTorch, TensorFlow  
+**Data:** pandas, NumPy, SciPy  
+**Visualization:** Matplotlib, Seaborn  
+**Workflow:** Git, Jupyter, Linux  
+
+---
+
+## 📌 Interests
+
+- Applied ML / Applied Research roles  
+- Scientific AI  
+- Semiconductor & manufacturing data  
+- Experimentation and modeling  
+- Complex systems & high-dimensional data  
+
+---
+
+## 📫 Connect
+
+- Google Scholar: https://scholar.google.com/citations?user=G6CqhUEAAAAJ&hl=en  
+- GitHub projects: see pinned repositories below
